@@ -1,0 +1,24 @@
+{
+  "projects": [
+    {
+      "slug": "sealion-trust",
+      "name": "Sealion Trust",
+      "imageUrl": "images/sealion-trust/Content Model Page.png"
+    },
+    {
+        "slug": "tourism-nz",
+        "name": "Tourism NZ",
+        "imageUrl": "images/tourism-nz/project image 2.png"
+      },
+      {
+        "slug": "clay-showroom",
+        "name": "Clay Showroom",
+        "mainImageUrl": "images/clay-showroom/Project image 4.png",
+        "imageUrls":[
+            "images/sealion-trust/Content Model Page.png",
+            "images/images/tourism-nz/project image 2.png",
+            "images/images/clay-showroom/Project image 4.png"    
+        ]
+      }
+  ]
+}

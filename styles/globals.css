@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Signika:wght@500&display=swap");
+
+html,
+body {
+ 
+  font-family: "Montserrat", sans-serif;
+  font-family: "Signika", sans-serif;
+  text-align: center;
+  max-width: inherit;
+  padding-top: 40px;
+  background-color: black;
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+  color: white;
+}
+h1{
+  font-size: 40px;
+}
+h2{
+  font-size: 25px;
+}
+p {
+  padding-left: 250px;
+  padding-right: 250px;
+}
+a {
+  color: inherit;
+  /* text-decoration: none; */
+}
+
+* {
+  box-sizing: border-box;
+}
+.container {
+  width: 1200px;
+  margin: 0 auto;
+  
+}

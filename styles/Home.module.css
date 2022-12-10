@@ -1,0 +1,26 @@
+@media (max-width: 600px) {
+}
+.header{
+  margin-bottom: 80px;
+}
+.projects {
+  display: flex;
+  justify-content: space-between;
+}
+
+.project {
+  height: 200px;
+  width: 350px;
+}
+.project1 {
+  background: url(/images/sealion-trust/Project1.png) no-repeat center center;
+  background-size: cover;
+}
+.project2 {
+  background: url(/images/tourism-nz/Project2.png) no-repeat center center;
+  background-size: cover;
+}
+.project3 {
+  background: url(/images/clay-showroom/Project3.png) no-repeat center center;
+  background-size: cover;
+}
