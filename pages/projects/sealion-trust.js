@@ -85,7 +85,7 @@ export default function Index() {
         <Image
           className={styles.image}
           alt="image1"
-          src="/images/sealion-trust/Content Model Page.png"
+          src="/images/sealion-trust/content-model-page.png"
           width={842}
           height={596}
         />
