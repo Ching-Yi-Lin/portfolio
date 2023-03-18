@@ -90,6 +90,7 @@ export default function Index() {
           width={842}
           height={596}
         />
+        
         <Image
           className={styles.image}
           alt="image1"
